@@ -5,7 +5,6 @@
 ![Dnyyfb's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=dnyyfb&show_icons=true&count_private=true&line_height=33.7&theme=tokyonight )
 ---
 My Project:
-- [BiliOB](https://dnyyfbstudio.github.io/): Bilibili data observer.
 - [baidu](https://github.com/dnyyfb/baidu):  A Meme website.
 - [My Website](https://dnyyfb.github.io):  My Website.
 
